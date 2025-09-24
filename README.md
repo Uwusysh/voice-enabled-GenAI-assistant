@@ -25,18 +25,7 @@
 
 ---
 
-## Demo / Deployment
-
-Since this is a **desktop GUI application**, it cannot be accessed via a URL.
-
-You can share a **demo video of the assistant in action**:
-[Loom Video Demo](#) – Shows voice commands, responses, and Gmail/Calendar actions.
-
----
-
-## Screenshots
-
-*Screenshot 2025-09-24 141717.png*
+![Interface](relative/path/to/Screenshot.png)
 
 ---
 
