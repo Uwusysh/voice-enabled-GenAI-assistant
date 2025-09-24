@@ -25,7 +25,8 @@
 
 ---
 
-![Interface](relative/path/to/Screenshot.png)
+![Assistant Interface](Screenshot 2025-09-24 141717.png)
+
 
 ---
 
